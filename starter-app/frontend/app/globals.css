@@ -1,0 +1,10 @@
+/* Minimal styles. Replace freely, or install Tailwind later (Step 8). */
+body {
+  font-family: system-ui, sans-serif;
+  max-width: 640px;
+  margin: 40px auto;
+  padding: 0 16px;
+}
+li { padding: 4px 0; }
+.done { text-decoration: line-through; color: gray; }
+.error { color: crimson; }
